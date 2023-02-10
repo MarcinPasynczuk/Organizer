@@ -1,2 +1,2 @@
 # Organizer
-Organizer in spring boot.
+Organizer and planner in spring boot.
